@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: *utm=
+
+Sitemap: https://denisnovikov.github.io/sitemap.xml
+Host: https://denisnovikov.github.io

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://denisnovikov.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://denisnovikov.github.io/" rel="alternate" type="text/html" hreflang="ru" /><updated>2017-12-15T14:51:24+03:00</updated><id>https://denisnovikov.github.io/</id><title type="html">denisnovikov.github.io</title><subtitle>Хранилище разнообразной информации</subtitle><entry><title type="html">Черные методы продвижения сайтов. Что не стоит делать, если хотите вывести сайт в ТОП</title><link href="https://denisnovikov.github.io/blog/black-website-promotion-how-not-to-do/" rel="alternate" type="text/html" title="Черные методы продвижения сайтов. Что не стоит делать, если хотите вывести сайт в ТОП" /><published>2017-10-30T21:15:00+03:00</published><updated>2017-10-30T21:15:00+03:00</updated><id>https://denisnovikov.github.io/blog/black-website-promotion-how-not-to-do</id><content type="html" xml:base="https://denisnovikov.github.io/blog/black-website-promotion-how-not-to-do/">&lt;p&gt;Задача владельцев сайтов — поднять свой ресурс на самое высокое место в поисковой выдаче. Они готовы сделать все, чтобы увидеть свой проект в ТОПе: кто-то применяет белые методы продвижения сайта, а кто-то не прочь воспользоваться и черным продвижением, лишь бы его детище было на вершине.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://denisnovikov.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://denisnovikov.github.io/" rel="alternate" type="text/html" hreflang="ru" /><updated>2017-12-15T15:19:20+03:00</updated><id>https://denisnovikov.github.io/</id><title type="html">denisnovikov.github.io</title><subtitle>Хранилище разнообразной информации</subtitle><entry><title type="html">Черные методы продвижения сайтов. Что не стоит делать, если хотите вывести сайт в ТОП</title><link href="https://denisnovikov.github.io/blog/black-website-promotion-how-not-to-do/" rel="alternate" type="text/html" title="Черные методы продвижения сайтов. Что не стоит делать, если хотите вывести сайт в ТОП" /><published>2017-10-30T21:15:00+03:00</published><updated>2017-10-30T21:15:00+03:00</updated><id>https://denisnovikov.github.io/blog/black-website-promotion-how-not-to-do</id><content type="html" xml:base="https://denisnovikov.github.io/blog/black-website-promotion-how-not-to-do/">&lt;p&gt;Задача владельцев сайтов — поднять свой ресурс на самое высокое место в поисковой выдаче. Они готовы сделать все, чтобы увидеть свой проект в ТОПе: кто-то применяет белые методы продвижения сайта, а кто-то не прочь воспользоваться и черным продвижением, лишь бы его детище было на вершине.&lt;/p&gt;
 
 &lt;p&gt;Поисковые системы уже давно научились распознавать недобросовестные манипуляции, разрабатывая новые алгоритмы. Они стараются избавиться от сайтов, которые продвигаются нечестным путем, и отдают предпочтение только качественным и грамотно оптимизированным ресурсам.&lt;/p&gt;
 
@@ -280,7 +280,99 @@
 
 &lt;p&gt;Если вам потребуется полностью удалить Oh My Zsh и сам шелл с системы, то это делается достаточно просто:&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;c&quot;&gt;# Удаляем Oh My Zsh и всё что с ним связано&lt;/span&gt;&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;uninstall_oh_my_zsh&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;c&quot;&gt;# Удаляем Zsh&lt;/span&gt;&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt uninstall zsh&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>niklan.net</name></author><category term="linux" /><summary type="html">Хочу поделиться очень отличным шелом, а по большей части, фреймворком созданным для него, который превратит вашу консоль в очень информативный и продуктивный инструмент.</summary></entry><entry><title type="html">Принципы дизайна для снижения когнитивной нагрузки</title><link href="https://denisnovikov.github.io/blog/design-principles-to-reduce-cognitive-load/" rel="alternate" type="text/html" title="Принципы дизайна для снижения когнитивной нагрузки" /><published>2017-06-07T21:15:00+03:00</published><updated>2017-06-07T21:15:00+03:00</updated><id>https://denisnovikov.github.io/blog/design-principles-to-reduce-cognitive-load</id><content type="html" xml:base="https://denisnovikov.github.io/blog/design-principles-to-reduce-cognitive-load/">&lt;p&gt;Когнитивная нагрузка — ментальное усилие, необходимое для произведения любого действия. Это конечный ресурс, поэтому пользовательский интерфейс должен быть спроектирован так, чтобы минимизировать когнитивную нагрузку для пользователя.&lt;/p&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;c&quot;&gt;# Удаляем Oh My Zsh и всё что с ним связано&lt;/span&gt;&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;uninstall_oh_my_zsh&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;c&quot;&gt;# Удаляем Zsh&lt;/span&gt;&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt uninstall zsh&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>niklan.net</name></author><category term="linux" /><summary type="html">Хочу поделиться очень отличным шелом, а по большей части, фреймворком созданным для него, который превратит вашу консоль в очень информативный и продуктивный инструмент.</summary></entry><entry><title type="html">Скачать Видео с YouTube из Командной Строки в Linux</title><link href="https://denisnovikov.github.io/blog/download-youtube-videos-from-command-line-in-linux/" rel="alternate" type="text/html" title="Скачать Видео с YouTube из Командной Строки в Linux" /><published>2017-06-09T16:18:27+03:00</published><updated>2017-06-09T16:18:27+03:00</updated><id>https://denisnovikov.github.io/blog/download-youtube-videos-from-command-line-in-linux</id><content type="html" xml:base="https://denisnovikov.github.io/blog/download-youtube-videos-from-command-line-in-linux/">&lt;p&gt;Мы можем скачивать видеофайлы с YouTube из &lt;strong&gt;командной строки в Linux&lt;/strong&gt; с помощью программы &lt;strong&gt;youtube-dl&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Это небольшая консольная утилита, которая умеет &lt;strong&gt;скачивать видео с youtube.com&lt;/strong&gt; и еще ряда сайтов.&lt;/p&gt;
+
+&lt;p&gt;В данной статье вы найдете информацию о том, как в зависимости от используемого &lt;strong&gt;Linux&lt;/strong&gt; дистрибутива, &lt;strong&gt;установить загрузчик для YouTube&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Также, вы узнаете как из командной строки в Linux &lt;strong&gt;загрузить видео, канал или плейлист с YouTube&lt;/strong&gt; в определенном качестве и формате.&lt;/p&gt;
+
+&lt;h2 id=&quot;Установка-youtube-Загрузчика-в-linux&quot;&gt;Установка YouTube Загрузчика в Linux&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Самый простой способ:&lt;/strong&gt; Один из самых простых способов установки последней версии &lt;code class=&quot;highlighter-rouge&quot;&gt;youtube-dl&lt;/code&gt; — с помощью утилиты для командной строки, под названием &lt;code class=&quot;highlighter-rouge&quot;&gt;pip&lt;/code&gt; — установщик python приложений.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;linux-mint-ubuntu-debian&quot;&gt;Linux Mint, Ubuntu, Debian&lt;/h3&gt;
+
+&lt;p&gt;Установите &lt;code class=&quot;highlighter-rouge&quot;&gt;pip&lt;/code&gt;:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt-get install python-pip&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Установите &lt;code class=&quot;highlighter-rouge&quot;&gt;youtube-dl&lt;/code&gt; в &lt;strong&gt;Linux Mint&lt;/strong&gt;, &lt;strong&gt;Ubuntu&lt;/strong&gt; или &lt;strong&gt;Debian&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;pip install &lt;span class=&quot;nt&quot;&gt;--upgrade&lt;/span&gt; youtube_dl&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;centos-rhel&quot;&gt;CentOS, RHEL&lt;/h3&gt;
+
+&lt;p&gt;В базовых репозиториях &lt;strong&gt;CentOS&lt;/strong&gt; и &lt;strong&gt;RHEL&lt;/strong&gt; пакет &lt;code class=&quot;highlighter-rouge&quot;&gt;pip&lt;/code&gt; отсутствует, но он может быть взят из EPEL.
+Установите &lt;code class=&quot;highlighter-rouge&quot;&gt;pip&lt;/code&gt; после добавления EPEL репозитория:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;yum install python-pip&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Установите &lt;code class=&quot;highlighter-rouge&quot;&gt;youtube-dl&lt;/code&gt; в &lt;strong&gt;CentOS&lt;/strong&gt; или &lt;strong&gt;RHEL&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;pip install &lt;span class=&quot;nt&quot;&gt;--upgrade&lt;/span&gt; youtube_dl&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;Скачать-Видео-с-youtube-в-linux&quot;&gt;Скачать Видео с YouTube в Linux&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Полезная информация:&lt;/strong&gt; По умолчанию, &lt;code class=&quot;highlighter-rouge&quot;&gt;youtube-dl&lt;/code&gt; скачивает видеофайл в лучшем качестве и формате.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Чтобы скачать видео с YouTube, просто запустите &lt;code class=&quot;highlighter-rouge&quot;&gt;youtube-dl&lt;/code&gt;, как показано ниже:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;youtube-dl &amp;lt;VIDEO URL&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Например, чтобы скачать &lt;a href=&quot;https://www.youtube.com/watch?v=hTWKbfoikeg&quot;&gt;Nirvana — Smells Like Teen Spirit&lt;/a&gt;, выполните:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;youtube-dl https://www.youtube.com/watch?v&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;hTWKbfoikeg&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;Качество-и-Форматы&quot;&gt;Качество и Форматы&lt;/h3&gt;
+
+&lt;p&gt;Используйте опцию &lt;code class=&quot;highlighter-rouge&quot;&gt;-F&lt;/code&gt; для отображения списка всех доступных форматов:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;youtube-dl &lt;span class=&quot;nt&quot;&gt;-F&lt;/span&gt; https://www.youtube.com/watch?v&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;hTWKbfoikeg&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;youtube] Setting language&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;youtube] hTWKbfoikeg: Downloading webpage&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;youtube] hTWKbfoikeg: Downloading video info webpage&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;youtube] hTWKbfoikeg: Extracting video information&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;youtube] hTWKbfoikeg: Encrypted signatures detected.&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;youtube] hTWKbfoikeg: Downloading js player vflBb0OQx&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;info] Available formats &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;hTWKbfoikeg:&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;format code extension resolution  note &lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;171         webm      audio only  DASH audio , audio@ 48k &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;worst&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;140         m4a       audio only  DASH audio , audio@128k&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;160         mp4       144p        DASH video , video only&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;133         mp4       240p        DASH video , video only&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;242         webm      240p        DASH video , video only&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;17          3gp       176x144&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;36          3gp       320x240&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;5           flv       400x240&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;18          mp4       640x360&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;43          webm      640x360     &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;best&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Как видите, YouTube хранит видеофайлы в разных форматах и разрешениях.&lt;/p&gt;
+
+&lt;p&gt;Чтобы скачать видеофайл определенного формата, используйте опцию &lt;code class=&quot;highlighter-rouge&quot;&gt;-f&lt;/code&gt; с кодом формата (&lt;code class=&quot;highlighter-rouge&quot;&gt;format code&lt;/code&gt;).
+Код формата можно узнать из вывода предыдущей команды.&lt;/p&gt;
+
+&lt;p&gt;Например, если мы хотим скачать видео с YouTube в формате &lt;code class=&quot;highlighter-rouge&quot;&gt;FLV&lt;/code&gt; и разрешением &lt;code class=&quot;highlighter-rouge&quot;&gt;400x240&lt;/code&gt;, нам необходимо указать в качестве кода формата цифру &lt;code class=&quot;highlighter-rouge&quot;&gt;5&lt;/code&gt;:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;youtube-dl &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; 5 https://www.youtube.com/watch?v&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;hTWKbfoikeg&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;Скачать-Список-Видеофайлов-с-youtube&quot;&gt;Скачать Список Видеофайлов с YouTube&lt;/h2&gt;
+
+&lt;p&gt;Чтобы скачать несколько видеофайлов с YouTube, создайте список ссылок &lt;code class=&quot;highlighter-rouge&quot;&gt;links.txt&lt;/code&gt; и запустите &lt;code class=&quot;highlighter-rouge&quot;&gt;youtube-dl&lt;/code&gt; следующим образом:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;youtube-dl &lt;span class=&quot;nt&quot;&gt;-a&lt;/span&gt; links.txt&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;Скачать-Канал-с-youtube&quot;&gt;Скачать Канал с YouTube&lt;/h2&gt;
+
+&lt;p&gt;Скачать весь канал какого-либо пользователя &lt;code class=&quot;highlighter-rouge&quot;&gt;USER&lt;/code&gt; с YouTube:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;youtube-dl &lt;span class=&quot;nt&quot;&gt;-citw&lt;/span&gt; ytuser:&amp;lt;USER&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Например, чтобы скачать весь канал пользователя &lt;a href=&quot;https://www.youtube.com/user/NirvanaVEVO&quot;&gt;NirvanaVEVO&lt;/a&gt;, выполните:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;youtube-dl &lt;span class=&quot;nt&quot;&gt;-citw&lt;/span&gt; ytuser:NirvanaVEVO&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;Скачать-Плейлист-с-youtube&quot;&gt;Скачать Плейлист с YouTube&lt;/h2&gt;
+
+&lt;p&gt;Скачать все видеофайлы с какого-либо плейлиста на YouTube:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;youtube-dl &lt;span class=&quot;nt&quot;&gt;-citw&lt;/span&gt; &amp;lt;PLAYLIST URL&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Например, чтобы скачать весь плейлист &lt;a href=&quot;https://www.youtube.com/playlist?list=PL71D5FDBC8F7CA3B8&quot;&gt;Nirvana&lt;/a&gt;, выполните:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;youtube-dl &lt;span class=&quot;nt&quot;&gt;-citw&lt;/span&gt; https://www.youtube.com/playlist?list&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;PL71D5FDBC8F7CA3B8&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Чтобы узнать больше о возможностях &lt;code class=&quot;highlighter-rouge&quot;&gt;youtube-dl&lt;/code&gt; — читайте man:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;man youtube-dl&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>shellhacks.com</name></author><category term="shell" /><summary type="html">Мы можем скачивать видеофайлы с YouTube из командной строки в Linux с помощью программы youtube-dl.</summary></entry><entry><title type="html">Принципы дизайна для снижения когнитивной нагрузки</title><link href="https://denisnovikov.github.io/blog/design-principles-to-reduce-cognitive-load/" rel="alternate" type="text/html" title="Принципы дизайна для снижения когнитивной нагрузки" /><published>2017-06-07T21:15:00+03:00</published><updated>2017-06-07T21:15:00+03:00</updated><id>https://denisnovikov.github.io/blog/design-principles-to-reduce-cognitive-load</id><content type="html" xml:base="https://denisnovikov.github.io/blog/design-principles-to-reduce-cognitive-load/">&lt;p&gt;Когнитивная нагрузка — ментальное усилие, необходимое для произведения любого действия. Это конечный ресурс, поэтому пользовательский интерфейс должен быть спроектирован так, чтобы минимизировать когнитивную нагрузку для пользователя.&lt;/p&gt;
 
 &lt;p&gt;Следуя перечисленным принципам, вы сможете значительно уменьшить когнитивную нагрузку, а также сконцентрировать внимание пользователя на тех элементах, которые действительно важны в каждый определенный момент. Важно помнить, что у пользователя всегда есть цель, будь то покупка товара, усвоение информации, или просто потребление контента. Чем меньше пользователю необходимо думать о способах достижения цели, тем вероятнее цель будет достигнута.&lt;/p&gt;
 
@@ -338,28 +430,4 @@
   &lt;p&gt;pigz отработал &lt;strong&gt;в 4&lt;/strong&gt; раза быстрее&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Есть и &lt;a href=&quot;https://github.com/klauspost/pgzip&quot;&gt;другие инструменты сжатия&lt;/a&gt;, которые используют современные процессоры намного эффективнее стандартного gzip’a.&lt;/p&gt;</content><author><name>ruhighload.com</name></author><category term="linux" /><summary type="html">Когда нужно сжимать большие объемы текста на мощном железе, gzip может работать не так эффективно, как хотелось бы. Gzip работает в 1 поток и эффективно будет использовать только одно ядро.</summary></entry><entry><title type="html">Как обновить крон без запуска текстового редактора</title><link href="https://denisnovikov.github.io/blog/how-to-update-czk-without-starting-a-text-editor/" rel="alternate" type="text/html" title="Как обновить крон без запуска текстового редактора" /><published>2017-04-05T09:47:36+03:00</published><updated>2017-04-05T09:47:36+03:00</updated><id>https://denisnovikov.github.io/blog/how-to-update-czk-without-starting-a-text-editor</id><content type="html" xml:base="https://denisnovikov.github.io/blog/how-to-update-czk-without-starting-a-text-editor/">&lt;p&gt;Всем знают, что можно сделать так:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;crontab &lt;span class=&quot;nt&quot;&gt;-e&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;После выполнения команды запустится любимый nano/vi/mcedit, в котором можно отредактировать расписание, и после закрытия редактора файл расписания будет обновлен.&lt;/p&gt;
-
-&lt;p&gt;Но бывают ситуации, когда расписания нужно обновлять автоматически с помощью скриптов, например, в условиях continuous integration или проектов, в которых расписание задает пользователь.&lt;/p&gt;
-
-&lt;h2 id=&quot;Используем-etccrond&quot;&gt;Используем /etc/cron.d&lt;/h2&gt;
-
-&lt;p&gt;Такие расписания можно раскладывать по файлам, для которых есть специальная папка:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;ls&lt;/span&gt; /etc/cron.d&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;php&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;В эту папку можно добавлять свои сценарии, разбивая их для удобства на файлы(файлов может быть много). Единственное, чем отличаются сценарии в файле это тем, что перед командой нужно указать пользователя, от имени которого эта команда будет выполнена, например:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;k&quot;&gt;*&lt;/span&gt;/10 &lt;span class=&quot;k&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;*&lt;/span&gt; www-data /var/www/task/flush_cache.sh&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;С помощью такого подхода расписание кронтаба можно хранить в коде проекта и при деплое обновлять кронтаб автоматически, запустив одну простую команду:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nb&quot;&gt;cat&lt;/span&gt; /var/www/my_project/conf/crontab &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; /etc/cron.d/my_project&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;Важно-помнить&quot;&gt;Важно помнить&lt;/h2&gt;
-
-&lt;p&gt;Не забывайте, что в конце каждого кронтаба должна быть пустая строка, иначе расписание не запустится.&lt;/p&gt;</content><author><name>ruhighload.com</name></author><category term="linux" /><summary type="html">Всем знают, что можно сделать так:</summary></entry></feed>
+&lt;p&gt;Есть и &lt;a href=&quot;https://github.com/klauspost/pgzip&quot;&gt;другие инструменты сжатия&lt;/a&gt;, которые используют современные процессоры намного эффективнее стандартного gzip’a.&lt;/p&gt;</content><author><name>ruhighload.com</name></author><category term="linux" /><summary type="html">Когда нужно сжимать большие объемы текста на мощном железе, gzip может работать не так эффективно, как хотелось бы. Gzip работает в 1 поток и эффективно будет использовать только одно ядро.</summary></entry></feed>

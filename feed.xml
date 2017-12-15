@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://denisnovikov.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://denisnovikov.github.io/" rel="alternate" type="text/html" hreflang="ru" /><updated>2017-12-15T09:11:45+03:00</updated><id>https://denisnovikov.github.io/</id><title type="html">denisnovikov.github.io</title><subtitle>Хранилище разнообразной информации</subtitle><entry><title type="html">Черные методы продвижения сайтов. Что не стоит делать, если хотите вывести сайт в ТОП</title><link href="https://denisnovikov.github.io/blog/black-website-promotion-how-not-to-do/" rel="alternate" type="text/html" title="Черные методы продвижения сайтов. Что не стоит делать, если хотите вывести сайт в ТОП" /><published>2017-10-30T21:15:00+03:00</published><updated>2017-10-30T21:15:00+03:00</updated><id>https://denisnovikov.github.io/blog/black-website-promotion-how-not-to-do</id><content type="html" xml:base="https://denisnovikov.github.io/blog/black-website-promotion-how-not-to-do/">&lt;p&gt;Задача владельцев сайтов — поднять свой ресурс на самое высокое место в поисковой выдаче. Они готовы сделать все, чтобы увидеть свой проект в ТОПе: кто-то применяет белые методы продвижения сайта, а кто-то не прочь воспользоваться и черным продвижением, лишь бы его детище было на вершине.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://denisnovikov.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://denisnovikov.github.io/" rel="alternate" type="text/html" hreflang="ru" /><updated>2017-12-15T09:12:32+03:00</updated><id>https://denisnovikov.github.io/</id><title type="html">denisnovikov.github.io</title><subtitle>Хранилище разнообразной информации</subtitle><entry><title type="html">Черные методы продвижения сайтов. Что не стоит делать, если хотите вывести сайт в ТОП</title><link href="https://denisnovikov.github.io/blog/black-website-promotion-how-not-to-do/" rel="alternate" type="text/html" title="Черные методы продвижения сайтов. Что не стоит делать, если хотите вывести сайт в ТОП" /><published>2017-10-30T21:15:00+03:00</published><updated>2017-10-30T21:15:00+03:00</updated><id>https://denisnovikov.github.io/blog/black-website-promotion-how-not-to-do</id><content type="html" xml:base="https://denisnovikov.github.io/blog/black-website-promotion-how-not-to-do/">&lt;p&gt;Задача владельцев сайтов — поднять свой ресурс на самое высокое место в поисковой выдаче. Они готовы сделать все, чтобы увидеть свой проект в ТОПе: кто-то применяет белые методы продвижения сайта, а кто-то не прочь воспользоваться и черным продвижением, лишь бы его детище было на вершине.&lt;/p&gt;
 
 &lt;p&gt;Поисковые системы уже давно научились распознавать недобросовестные манипуляции, разрабатывая новые алгоритмы. Они стараются избавиться от сайтов, которые продвигаются нечестным путем, и отдают предпочтение только качественным и грамотно оптимизированным ресурсам.&lt;/p&gt;
 
@@ -280,7 +280,49 @@
 
 &lt;p&gt;Если вам потребуется полностью удалить Oh My Zsh и сам шелл с системы, то это делается достаточно просто:&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;c&quot;&gt;# Удаляем Oh My Zsh и всё что с ним связано&lt;/span&gt;&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;uninstall_oh_my_zsh&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;c&quot;&gt;# Удаляем Zsh&lt;/span&gt;&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt uninstall zsh&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>niklan.net</name></author><category term="linux" /><summary type="html">Хочу поделиться очень отличным шелом, а по большей части, фреймворком созданным для него, который превратит вашу консоль в очень информативный и продуктивный инструмент.</summary></entry><entry><title type="html">Как ускорить gzip сжатие?</title><link href="https://denisnovikov.github.io/blog/how-to-speed-up-gzip-compression/" rel="alternate" type="text/html" title="Как ускорить gzip сжатие?" /><published>2017-04-25T12:44:27+03:00</published><updated>2017-04-25T12:44:27+03:00</updated><id>https://denisnovikov.github.io/blog/how-to-speed-up-gzip-compression</id><content type="html" xml:base="https://denisnovikov.github.io/blog/how-to-speed-up-gzip-compression/">&lt;p&gt;Когда нужно сжимать большие объемы текста на мощном железе, gzip может работать не так эффективно, как хотелось бы. Gzip работает в 1 поток и эффективно будет использовать только одно ядро.&lt;/p&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;c&quot;&gt;# Удаляем Oh My Zsh и всё что с ним связано&lt;/span&gt;&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;uninstall_oh_my_zsh&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;c&quot;&gt;# Удаляем Zsh&lt;/span&gt;&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt uninstall zsh&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>niklan.net</name></author><category term="linux" /><summary type="html">Хочу поделиться очень отличным шелом, а по большей части, фреймворком созданным для него, который превратит вашу консоль в очень информативный и продуктивный инструмент.</summary></entry><entry><title type="html">Принципы дизайна для снижения когнитивной нагрузки</title><link href="https://denisnovikov.github.io/blog/design-principles-to-reduce-cognitive-load/" rel="alternate" type="text/html" title="Принципы дизайна для снижения когнитивной нагрузки" /><published>2017-06-07T21:15:00+03:00</published><updated>2017-06-07T21:15:00+03:00</updated><id>https://denisnovikov.github.io/blog/design-principles-to-reduce-cognitive-load</id><content type="html" xml:base="https://denisnovikov.github.io/blog/design-principles-to-reduce-cognitive-load/">&lt;p&gt;Когнитивная нагрузка — ментальное усилие, необходимое для произведения любого действия. Это конечный ресурс, поэтому пользовательский интерфейс должен быть спроектирован так, чтобы минимизировать когнитивную нагрузку для пользователя.&lt;/p&gt;
+
+&lt;p&gt;Следуя перечисленным принципам, вы сможете значительно уменьшить когнитивную нагрузку, а также сконцентрировать внимание пользователя на тех элементах, которые действительно важны в каждый определенный момент. Важно помнить, что у пользователя всегда есть цель, будь то покупка товара, усвоение информации, или просто потребление контента. Чем меньше пользователю необходимо думать о способах достижения цели, тем вероятнее цель будет достигнута.&lt;/p&gt;
+
+&lt;h2 id=&quot;Принципы&quot;&gt;Принципы&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Избегайте ненужных элементов;&lt;/li&gt;
+  &lt;li&gt;Пользуйтесь шаблонами;&lt;/li&gt;
+  &lt;li&gt;Исключайте лишние задачи;&lt;/li&gt;
+  &lt;li&gt;Ограничивайте выбор;&lt;/li&gt;
+  &lt;li&gt;Группируйте варианты выбора;&lt;/li&gt;
+  &lt;li&gt;Стремитесь к читаемости;&lt;/li&gt;
+  &lt;li&gt;Используйте иконки с осторожностью.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;1-Избегайте-ненужных-элементов&quot;&gt;1. Избегайте ненужных элементов&lt;/h3&gt;
+
+&lt;p&gt;Как и в любом дизайне, в проектировании UI меньше значит больше. Любой элемент, который не помогает пользователю достичь цели, работает против него, потому что пользователь вынужден отвлекаться на ненужный элемент, помнить о нём наряду с полезными элементами. Отказ от избыточных цветов, изображений, визуальных эффектов и слоев имеет решающее значение. Но тут стоит оговориться — не гонитесь за простотой за счёт понятности.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-Пользуйтесь-шаблонами&quot;&gt;2. Пользуйтесь шаблонами&lt;/h3&gt;
+
+&lt;p&gt;Используя шаблоны там, где это уместно, вы даете в руки пользователю знакомые инструменты. Это снижает количество новой информации, которую пользователь должен усвоить для достижения цели, соответственно приближая пользователя к цели.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-Исключайте-лишние-задачи&quot;&gt;3. Исключайте лишние задачи&lt;/h3&gt;
+
+&lt;p&gt;Всякий раз, когда вы требуете от пользователя усвоить контент или принять решение — вы увеличивает когнитивную нагрузку. Когда это только возможно, старайтесь избавить пользователя от лишних задач, чтобы ему было проще фокусироваться на достижении цели. Когда невозможно полностью избавиться от лишних задач, как правило, есть возможность установить настройки по умолчанию, которые могут быть отредактированы при необходимости, либо задействовать ранее полученную информацию. Некоторые компании в таких случаях идут на шаг впереди, применяя упреждающий дизайн.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-Ограничивайте-выбор&quot;&gt;4. Ограничивайте выбор&lt;/h3&gt;
+
+&lt;p&gt;Наша оперативная память ограничена. Сталкиваясь с большим количеством вариантов, когнитивная нагрузка возрастет из-за проблемы выбора. Важно минимизировать количество вариантов, между которыми может выбирать пользователь в каждый конкретный момент. Особенно обратите внимание на навигацию, формы и выпадающие меню.&lt;/p&gt;
+
+&lt;h3 id=&quot;5-Группируйте-варианты-выбора&quot;&gt;5. Группируйте варианты выбора&lt;/h3&gt;
+
+&lt;p&gt;Когда варианты, между которыми должен выбирать пользователь, разнесены по нескольким группам, пользователь может принять одну из групп за всё поле выбора. В таком случае выбор будет не только ограниченным, но и более сложным, так как будет доступна только часть всех вариантов. Всегда объединяйте варианты выбора в одну группу — это поможет избежать лишней когнитивной нагрузки.&lt;/p&gt;
+
+&lt;h3 id=&quot;6-Стремитесь-к-читаемости&quot;&gt;6. Стремитесь к читаемости&lt;/h3&gt;
+
+&lt;p&gt;Просто разборчиво писать текст недостаточно — необходимо сделать его легким для восприятия. Типографика должна быть эстетически приятной, подходить под контент и быть легкочитаемой, а дизайн — незаметным. Чем меньше моментов будет отвлекать пользователя, тем легче ему будет понять контент.&lt;/p&gt;
+
+&lt;h3 id=&quot;7-Используйте-иконки-с-осторожностью&quot;&gt;7. Используйте иконки с осторожностью&lt;/h3&gt;
+
+&lt;p&gt;Исследования показали, что иконографика тяжело запоминается, и, вопреки нашему интуитивному представлению, может увеличить когнитивную нагрузку, направленную на распознавание смысла. В то время как общепринятые иконки работают хорошо (такие как «печать», «закрыть», «воспроизвести/остановить», «ответить, «твитнуть», «поделиться»), узнаваемость остальных построена на обращении к прошлому опыту пользователя, в котором не может быть никаких стандартов. Чтобы избежать двусмысленности при использовании иконок, комбинируйте их с надписями.&lt;/p&gt;</content><author><name>awdee.ru</name></author><category term="front-end" /><summary type="html">Когнитивная нагрузка — ментальное усилие, необходимое для произведения любого действия. Это конечный ресурс, поэтому пользовательский интерфейс должен быть спроектирован так, чтобы минимизировать когнитивную нагрузку для пользователя.</summary></entry><entry><title type="html">Как ускорить gzip сжатие?</title><link href="https://denisnovikov.github.io/blog/how-to-speed-up-gzip-compression/" rel="alternate" type="text/html" title="Как ускорить gzip сжатие?" /><published>2017-04-25T12:44:27+03:00</published><updated>2017-04-25T12:44:27+03:00</updated><id>https://denisnovikov.github.io/blog/how-to-speed-up-gzip-compression</id><content type="html" xml:base="https://denisnovikov.github.io/blog/how-to-speed-up-gzip-compression/">&lt;p&gt;Когда нужно сжимать большие объемы текста на мощном железе, gzip может работать не так эффективно, как хотелось бы. Gzip работает в 1 поток и эффективно будет использовать только одно ядро.&lt;/p&gt;
 
 &lt;p&gt;Есть несколько альтернативных утилит, которые сжимают файлы используя все ядра. Одна из них — &lt;a href=&quot;http://zlib.net/pigz/&quot;&gt;pigz&lt;/a&gt;. Установить ее можно из пакетов:&lt;/p&gt;
 
@@ -320,54 +362,4 @@
 
 &lt;h2 id=&quot;Важно-помнить&quot;&gt;Важно помнить&lt;/h2&gt;
 
-&lt;p&gt;Не забывайте, что в конце каждого кронтаба должна быть пустая строка, иначе расписание не запустится.&lt;/p&gt;</content><author><name>ruhighload.com</name></author><category term="linux" /><summary type="html">Всем знают, что можно сделать так:</summary></entry><entry><title type="html">Как удалить миллион файлов</title><link href="https://denisnovikov.github.io/blog/how-to-delete-million-of-files/" rel="alternate" type="text/html" title="Как удалить миллион файлов" /><published>2017-03-28T11:40:19+03:00</published><updated>2017-03-28T11:40:19+03:00</updated><id>https://denisnovikov.github.io/blog/how-to-delete-million-of-files</id><content type="html" xml:base="https://denisnovikov.github.io/blog/how-to-delete-million-of-files/">&lt;p&gt;На серверах могут скапливаться горы файлов, которые периодически нужно удалять. Например, логи, скомпилированные версии файлов, или любой другой файловый кеш, генерируемый скриптами.&lt;/p&gt;
-
-&lt;p&gt;Рано или поздно эти горы приходится вычищать:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;rm /tmp/logs/&lt;span class=&quot;k&quot;&gt;*&lt;/span&gt;.log&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Если количество файлов будет критично большим, в какой-то момент вместо удаления файлов мы увидим такое сообщение в консоли:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;/bin/rm: Argument list too long.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Что это означает?&lt;/p&gt;
-
-&lt;h2 id=&quot;Проблема&quot;&gt;Проблема&lt;/h2&gt;
-
-&lt;p&gt;Дело в том, что использование маски в командах типа rm/cp/find линукс переводит в удобный для себя формат, делая из понятной человеку команде:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;rm /tmp/logs/&lt;span class=&quot;k&quot;&gt;*&lt;/span&gt;.log&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;список файлов под этой маской:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;rm /tmp/logs/1.log /tmp/logs/2.log /tmp/logs/3.log ...&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Проблемы начинаются, когда аргументов у команды rm становится больше допустимого лимита. Проверить этот лимит можно с помощью команды getconf:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;getconf ARG_MAX&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;262144&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;И что все-таки делать?&lt;/p&gt;
-
-&lt;h2 id=&quot;Использовать-цикл-for&quot;&gt;Использовать цикл For&lt;/h2&gt;
-
-&lt;p&gt;Самый простой способ — выполнить нужную нам команду в цикле for, у которого есть два важных преимущества. Во-первых, циклы нересурсоемкие и не имеют лимитов на количество аргументов. Во-вторых, в цикл просто завернуть дополнительную логику, если потребуется делать что-то сложнее, чем удаление файлов.&lt;/p&gt;
-
-&lt;p&gt;Например, вот так можно удалить все файлы одной командой:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;f &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; /tmp/logs/&lt;span class=&quot;k&quot;&gt;*&lt;/span&gt;.log&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do &lt;/span&gt;rm &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;done&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Или удалить файлы, которые старше семи дней:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;f &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; /tmp/logs/&lt;span class=&quot;k&quot;&gt;*&lt;/span&gt;.log&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;k&quot;&gt;do&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;  &lt;/span&gt;find &lt;span class=&quot;nv&quot;&gt;$f&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-mtime&lt;/span&gt; +7 &lt;span class=&quot;nt&quot;&gt;-exec&lt;/span&gt; rm &lt;span class=&quot;o&quot;&gt;{}&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\;&lt;/span&gt;&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;k&quot;&gt;done&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Или посчитать, записать в переменную и вывести их количество:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;FILES_COUNT&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;0&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;f &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; /tmp/logs/&lt;span class=&quot;k&quot;&gt;*&lt;/span&gt;.log &lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;((&lt;/span&gt;c++&lt;span class=&quot;o&quot;&gt;))&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;done&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$c&lt;/span&gt;&lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;&lt;br data-jekyll-commonmark-ghpages=&quot;&quot; /&gt;&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$FILES_COUNT&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt; log files left&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;Самое-главное&quot;&gt;Самое главное&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;не забывайте чистить логи регулярно, чтобы не засорять файловую систему;&lt;/li&gt;
-  &lt;li&gt;используйте для этого готовые инструменты, чтобы не придумывать свои велосипеды;&lt;/li&gt;
-  &lt;li&gt;перечитывайте команды перед выполнением, чтобы случайно не удалить всё.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>ruhighload.com</name></author><category term="linux" /><summary type="html">На серверах могут скапливаться горы файлов, которые периодически нужно удалять. Например, логи, скомпилированные версии файлов, или любой другой файловый кеш, генерируемый скриптами.</summary></entry></feed>
+&lt;p&gt;Не забывайте, что в конце каждого кронтаба должна быть пустая строка, иначе расписание не запустится.&lt;/p&gt;</content><author><name>ruhighload.com</name></author><category term="linux" /><summary type="html">Всем знают, что можно сделать так:</summary></entry></feed>
